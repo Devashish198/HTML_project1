@@ -1,0 +1,20 @@
+.first{
+    border: 1px solid black;
+    margin: 10px;
+    padding-right: 5px;
+    padding-bottom: 3px;
+    padding-left: 8px;
+}
+img{
+    height: 200px;
+    width: 300px;
+}
+h1{
+    text-decoration: underline;
+}
+.third{
+    margin: 5px;
+    padding-right: 5px;
+    padding-bottom: 3px;
+    padding-left: 2px;
+}
